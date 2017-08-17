@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css?family=Patrick+Hand+SC');
+body{
+    background-color: yellow;
+font-family: 'Patrick Hand SC', cursive;}
+
+h1{text-align: center;}
+
+#contents{
+text-align: center;
+}
+
+ul{list-style: none;
+padding:0;}
+li{margin:10px;}
+buttons{margin:10px;}
+#box{border: 2px solid black;
+margin-top: 50px;
+margin-bottom:50px;
+padding:40px;}
+
